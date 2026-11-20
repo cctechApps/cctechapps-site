@@ -1,0 +1,8 @@
+{
+  "name": "cctechapps-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "cctechapps.com — Collins & Collins Technologies apps and custom builds landing page",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
